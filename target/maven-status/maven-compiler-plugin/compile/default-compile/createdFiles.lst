@@ -1,0 +1,9 @@
+com\coveFox_POM\CoverFoxMemberDetailsPage.class
+com\coveFox_POM\CoverFoxAddressDetailsPage.class
+com\coveFox_POM\CoverFoxHomePage.class
+com\coverFox_Base\Base.class
+com\coveFox_POM\CoverFoxResultPage.class
+com\coverFox_Listener\ExtentReporterNG.class
+com\coverFox_Listener\Listener.class
+com\coverFox_Utility\Utility.class
+com\coveFox_POM\CoverFoxHealthPlanPage.class

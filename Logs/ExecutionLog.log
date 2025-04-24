@@ -1,0 +1,18 @@
+2025-04-22 21:51:08,348 - Morning_Batch_CoverFox -INFO - Hello
+2025-04-22 22:11:35,175 - Morning_Batch_CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 22:11:40,010 - Morning_Batch_CoverFox -INFO - Launching Browser
+2025-04-22 22:11:41,369 - Morning_Batch_CoverFox -INFO - Clicking on Gender
+2025-04-22 22:11:41,622 - Morning_Batch_CoverFox -INFO - clicking On Next Button On Health Plan Page
+2025-04-22 22:11:42,909 - Morning_Batch_CoverFox -INFO - Handling age drop down
+2025-04-22 22:11:43,025 - Morning_Batch_CoverFox -INFO - clicking On Next Button On Member Detail Page
+2025-04-22 22:11:43,446 - Morning_Batch_CoverFox -INFO - Enter Pincode On Adress Detail Page
+2025-04-22 22:11:43,607 - Morning_Batch_CoverFox -INFO - Eneter Mobile Number On Address Detail Page
+2025-04-22 22:11:43,737 - Morning_Batch_CoverFox -INFO - Clicking On Continue Button
+2025-04-22 22:11:47,848 - Morning_Batch_CoverFox -INFO - Validating CoverFox Plan
+2025-04-22 22:11:47,860 - Morning_Batch_CoverFox -INFO - closing Browser
+2025-04-22 23:10:06,379 - Morning_Batch_CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 23:10:11,027 - Morning_Batch_CoverFox -INFO - Launching Browser
+2025-04-22 23:10:11,570 - Morning_Batch_CoverFox -INFO - Clicking on Gender
+2025-04-22 23:10:12,138 - Morning_Batch_CoverFox -INFO - clicking On Next Button On Health Plan Page
+2025-04-22 23:10:13,605 - Morning_Batch_CoverFox -INFO - Handling age drop down
+2025-04-22 23:10:13,807 - Morning_Batch_CoverFox -INFO - clicking On Next Button On Member Detail Page
