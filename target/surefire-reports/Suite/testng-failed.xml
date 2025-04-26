@@ -11,8 +11,8 @@
         <methods>
           <include name="coverFoxPreconditions"/>
           <include name="closeBrowser"/>
-          <include name="validateCoverFoxPlan"/>
           <include name="launchBrowser"/>
+          <include name="validateCoverFoxPlan"/>
         </methods>
       </class> <!-- com.coverFox_test.CoverFoxTestUsingTestNG -->
     </classes>

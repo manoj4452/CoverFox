@@ -22,7 +22,7 @@ public class Utility {
 	
 	public static String readDataFromExcel(String sheetName, int row, int cell) throws EncryptedDocumentException, IOException
 	{
-		FileInputStream myFile = new FileInputStream("D:\\Excel_Selenium_Practice.xlsx");
+		FileInputStream myFile = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\resources\\TestData\\Excel_Selenium_Practice.xlsx");
 		Sheet mySheet = WorkbookFactory.create(myFile).getSheet(sheetName);
 		String data = mySheet.getRow(row).getCell(cell).getStringCellValue();
 		Reporter.log("Reading data from excel", true);
