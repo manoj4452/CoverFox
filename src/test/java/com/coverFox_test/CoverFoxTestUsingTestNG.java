@@ -88,6 +88,10 @@ public class CoverFoxTestUsingTestNG extends Base{
 		logger.info("Validating CoverFox Plan");
 		Assert.assertEquals(planNumberFromText, planNumberFromCards, "TC is failed, numbers are not matching");
 		Reporter.log("Plan Number is Matching , TC is passed", true);
+		Reporter.log("First change done by psp", true);
+		Reporter.log("Second change is done by psp", true);
+		Reporter.log("Third change is done by psp", true);
+		
 		
 	}
 
